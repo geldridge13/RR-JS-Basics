@@ -1,21 +1,30 @@
-// Basic math formulaas
-function addition(num1, num2){
-  return -1;
+// Basic math formulas
+function addition(a, b){
+  return a + b;
 }
+let sum = addition(2, 4);
 
-function subtraction(num1, num2){
-  return -1;
+//----------------------------------
+function subtraction(a, b){
+  return a - b;
 }
+let sum = subtraction(2, 4);
 
-function multiplication(num1, num2){
-  return -1;
+//----------------------------------
+function multiplication(a, b){
+  return a * b;
 }
+let sum = multiplication(2, 4);
+
+//----------------------------------
 
 function division(num1, num2){
-  return -1;
+  return a / b;
 }
+let sum = division(2, 4);
 
-// Area formulaas
+// Area formulas
+
 function areaSquare(side){
   return -1;
 }
